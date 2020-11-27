@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Lecture6.c">
+    <ClCompile Include="C Template.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
