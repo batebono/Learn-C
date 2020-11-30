@@ -42,6 +42,6 @@ long get_long(void)
 	}
 
 	printf("Your input %ld is an integer. Thank you.\n", input);
-
+	  
 	return input;
 }
